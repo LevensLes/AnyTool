@@ -1,0 +1,14 @@
+C:\Users\yoloc\source\repos\AnyDeskResolver\AnyDeskResolver\bin\Release\AnyTools.exe.config
+C:\Users\yoloc\source\repos\AnyDeskResolver\AnyDeskResolver\bin\Release\AnyTools.exe
+C:\Users\yoloc\source\repos\AnyDeskResolver\AnyDeskResolver\bin\Release\AnyTools.pdb
+C:\Users\yoloc\source\repos\AnyDeskResolver\AnyDeskResolver\bin\Release\Newtonsoft.Json.dll
+C:\Users\yoloc\source\repos\AnyDeskResolver\AnyDeskResolver\bin\Release\Newtonsoft.Json.xml
+C:\Users\yoloc\source\repos\AnyDeskResolver\AnyDeskResolver\obj\Release\AnyDeskResolver.csprojAssemblyReference.cache
+C:\Users\yoloc\source\repos\AnyDeskResolver\AnyDeskResolver\obj\Release\AnyDeskResolver.Form1.resources
+C:\Users\yoloc\source\repos\AnyDeskResolver\AnyDeskResolver\obj\Release\AnyDeskResolver.GUI.slider.resources
+C:\Users\yoloc\source\repos\AnyDeskResolver\AnyDeskResolver\obj\Release\AnyDeskResolver.Properties.Resources.resources
+C:\Users\yoloc\source\repos\AnyDeskResolver\AnyDeskResolver\obj\Release\AnyDeskResolver.csproj.GenerateResource.cache
+C:\Users\yoloc\source\repos\AnyDeskResolver\AnyDeskResolver\obj\Release\AnyDeskResolver.csproj.CoreCompileInputs.cache
+C:\Users\yoloc\source\repos\AnyDeskResolver\AnyDeskResolver\obj\Release\AnyDeskResolver.csproj.CopyComplete
+C:\Users\yoloc\source\repos\AnyDeskResolver\AnyDeskResolver\obj\Release\AnyTools.exe
+C:\Users\yoloc\source\repos\AnyDeskResolver\AnyDeskResolver\obj\Release\AnyTools.pdb
